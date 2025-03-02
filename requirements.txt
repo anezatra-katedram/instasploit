@@ -1,0 +1,8 @@
+requests
+google
+cryptography
+pycryptodome
+pycryptodomex
+colorama
+instaloader
+pygame
